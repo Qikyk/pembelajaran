@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 2.5em;
+}
+
+/* style navbar */
+nav {
+  margin: 1em;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000;
+  font-size: 30px
+} 
+
+/* style end navbar */
+
+header {
+  height: 200px;
+}
+
+.
